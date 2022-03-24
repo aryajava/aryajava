@@ -1,13 +1,13 @@
 > Indonesian
 > - :wave: Hi,  Saya Muhammad Arya Java (@aryajava)
 > - :earth_asia:  Dari Jakarta, Indonesia
-> - :school:  Saya Mahasiswa di Universitas Budi Luhur
+> - :school:  Saya Mahasiswa di [Universitas Budi Luhur](https://www.budiluhur.ac.id/).
 
 
 > English
 > - :wave: Hi, I’m Muhammad Arya Java (@aryajava)
 > - :earth_asia:  From Jakarta, Indonesia
-> - :school:  I'm Student at Budi Luhur University
+> - :school:  I'm Student at [Budi Luhur University](https://www.budiluhur.ac.id/).
 
 <!---
 aryajava/aryajava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
