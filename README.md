@@ -1,11 +1,13 @@
 > Indonesian
 > - :wave: Hi,  Saya Muhammad Arya Java (@aryajava)
+> - :information_source: Saya seorang Junior Programmer
 > - :earth_asia:  Dari Jakarta, Indonesia
 > - :school:  Lulusan dari [Universitas Budi Luhur](https://www.budiluhur.ac.id/).
 
 
 > English
 > - :wave: Hi, I’m Muhammad Arya Java (@aryajava)
+> - :information_source: I'm Junior Programmer
 > - :earth_asia:  From Jakarta, Indonesia
 > - :school:  Graduate from [Budi Luhur University](https://www.budiluhur.ac.id/).
 
