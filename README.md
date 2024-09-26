@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryajava&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="155" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aryajava&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="155" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryajava&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
