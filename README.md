@@ -1,6 +1,7 @@
 <br clear="both">
 
-<p align="center">Hello World!!</p>
+<h1 align="center">Hi 👋, I'm Muhammad Arya Java</h1>
+<h3 align="center">A passionate junior developer from Indonesia</h3>
 
 ###
 
